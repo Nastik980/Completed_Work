@@ -12,7 +12,7 @@ users = {
 catalog = {
     1: {"name": "Arabica", "price": 100.25, "color": "Brown"},
     2: {"name": "Robusta", "price": 80.50, "color": "Black"}
-}
+          }
 
 
 # Функція перевірки автентифікації
